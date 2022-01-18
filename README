@@ -1,1 +1,5 @@
-
+This script gives an example python script for creating a simple stereogram that can be viewed by converging or diverging your eyes.
+I made it as an attempt to implement the sterogram description found here https://en.wikipedia.org/wiki/Random_dot_stereogram.
+The script creates two panels filled with identical patterns of random squares. 
+Then a shape is used to select a subset of squares and they are horiozntally shifted to create a disparity between the panels.
+By focusing ahead or behind the computer screen, this should create a shape that floats in a differnt plane from the rest of the squares.
